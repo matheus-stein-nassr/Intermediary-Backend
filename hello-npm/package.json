@@ -1,0 +1,20 @@
+{
+  "name": "hello-npm",
+  "version": "1.0.0",
+  "description": "demo folder npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matheus stein nassr",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "hello-npm": "file:",
+    "inquirer": "^12.0.0",
+    "node-emoji": "^2.1.3",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
+  }
+}
